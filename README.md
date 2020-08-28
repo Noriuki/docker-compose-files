@@ -1,4 +1,4 @@
-# docker-compose utils files
+# docker-compose files
 
 ## Docker compose file for:
   Wordpress + mysql
