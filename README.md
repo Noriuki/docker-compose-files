@@ -1,7 +1,7 @@
 # docker-compose files
   Wordpress + mysql
   
-  Mongo + MongoExpress 
+  MongoDB
 
 ## Installation
 
