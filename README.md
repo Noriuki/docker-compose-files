@@ -1,6 +1,4 @@
 # docker-compose files
-
-## Docker compose file for:
   Wordpress + mysql
   Mongo + MongoExpress 
 
