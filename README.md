@@ -1,6 +1,8 @@
-# docker-wordpress
-Docker compose file for Wordpress + mysql environment
+# docker-compose utils files
 
+## Docker compose file for:
+  Wordpress + mysql
+  Mongo + MongoExpress 
 
 ## Installation
 
