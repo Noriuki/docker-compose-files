@@ -1,7 +1,10 @@
 # docker-compose files
-  Wordpress + mysql
-  
-  MongoDB
+>Repository with a list of docker-compose files.
+
+files:\
+:white_check_mark: Wordpress + mysql\
+:white_check_mark: MongoDB
+
 
 ## Installation
 
